@@ -27,6 +27,8 @@ node index.js
 ## 运行结果
 ![结果](./result.jpg)
 
+> 虽然没有显示失败但是也看不到数据增加，不知道为什么
+
 ## 鸣谢
 感谢[@djerryz](https://github.com/djerryz)/[Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni)提供的思路
 
