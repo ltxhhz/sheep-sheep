@@ -1,8 +1,8 @@
 const { shuffle, random } = require("lodash");
 const protobuf = require('protobufjs');
 
-function getMatchPlayInfo(mapSeed, gameType = 3) {
-  let time_array = shuffle(new Array(293).fill(1).map((_, i) => ({ chessIndex: i }))).map((e, i) => {
+function getMatchPlayInfo(mapSeed, len, gameType = 3) {
+  let time_array = shuffle(new Array(len).fill(1).map((_, i) => ({ chessIndex: i }))).map((e, i) => {
     if (i == 0) {
       e.timeTag = 0
     } else {

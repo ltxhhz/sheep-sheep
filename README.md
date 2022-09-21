@@ -26,8 +26,9 @@ node index.js
 
 ## 运行结果
 ![结果](./result.jpg)
+![结果1](./result1.jpg)
 
-> 虽然没有显示失败但是也看不到数据增加，不知道为什么
+> 次数增加了
 
 ## 鸣谢
 感谢[@djerryz](https://github.com/djerryz)/[Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni)提供的思路

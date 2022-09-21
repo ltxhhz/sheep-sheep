@@ -1,0 +1,1181 @@
+{
+  "gameType": 3,
+  "stepInfoList": [
+    {
+      "chessIndex": 276,
+      "timeTag": 0
+    },
+    {
+      "chessIndex": 277,
+      "timeTag": 189
+    },
+    {
+      "chessIndex": 247,
+      "timeTag": 225
+    },
+    {
+      "chessIndex": 251,
+      "timeTag": 328
+    },
+    {
+      "chessIndex": 248,
+      "timeTag": 192
+    },
+    {
+      "chessIndex": 267,
+      "timeTag": 364
+    },
+    {
+      "chessIndex": 266,
+      "timeTag": 364
+    },
+    {
+      "chessIndex": 268,
+      "timeTag": 586
+    },
+    {
+      "chessIndex": 249,
+      "timeTag": 204
+    },
+    {
+      "chessIndex": 202,
+      "timeTag": 523
+    },
+    {
+      "chessIndex": 290,
+      "timeTag": 207
+    },
+    {
+      "chessIndex": 250,
+      "timeTag": 186
+    },
+    {
+      "chessIndex": 293,
+      "timeTag": 210
+    },
+    {
+      "chessIndex": 125,
+      "timeTag": 374
+    },
+    {
+      "chessIndex": 235,
+      "timeTag": 318
+    },
+    {
+      "chessIndex": 270,
+      "timeTag": 234
+    },
+    {
+      "chessIndex": 84,
+      "timeTag": 413
+    },
+    {
+      "chessIndex": 74,
+      "timeTag": 203
+    },
+    {
+      "chessIndex": 85,
+      "timeTag": 399
+    },
+    {
+      "chessIndex": 75,
+      "timeTag": 189
+    },
+    {
+      "chessIndex": 271,
+      "timeTag": 720
+    },
+    {
+      "chessIndex": 292,
+      "timeTag": 575
+    },
+    {
+      "chessIndex": 236,
+      "timeTag": 181
+    },
+    {
+      "chessIndex": 234,
+      "timeTag": 217
+    },
+    {
+      "chessIndex": 232,
+      "timeTag": 196
+    },
+    {
+      "chessIndex": 257,
+      "timeTag": 191
+    },
+    {
+      "chessIndex": 110,
+      "timeTag": 768
+    },
+    {
+      "chessIndex": 124,
+      "timeTag": 421
+    },
+    {
+      "chessIndex": 246,
+      "timeTag": 220
+    },
+    {
+      "chessIndex": 231,
+      "timeTag": 226
+    },
+    {
+      "chessIndex": 233,
+      "timeTag": 230
+    },
+    {
+      "chessIndex": 107,
+      "timeTag": 1921
+    },
+    {
+      "chessIndex": 109,
+      "timeTag": 260
+    },
+    {
+      "chessIndex": 198,
+      "timeTag": 633
+    },
+    {
+      "chessIndex": 256,
+      "timeTag": 402
+    },
+    {
+      "chessIndex": 177,
+      "timeTag": 211
+    },
+    {
+      "chessIndex": 242,
+      "timeTag": 445
+    },
+    {
+      "chessIndex": 176,
+      "timeTag": 561
+    },
+    {
+      "chessIndex": 108,
+      "timeTag": 429
+    },
+    {
+      "chessIndex": 288,
+      "timeTag": 462
+    },
+    {
+      "chessIndex": 289,
+      "timeTag": 204
+    },
+    {
+      "chessIndex": 285,
+      "timeTag": 202
+    },
+    {
+      "chessIndex": 284,
+      "timeTag": 233
+    },
+    {
+      "chessIndex": 90,
+      "timeTag": 359
+    },
+    {
+      "chessIndex": 212,
+      "timeTag": 433
+    },
+    {
+      "chessIndex": 205,
+      "timeTag": 235
+    },
+    {
+      "chessIndex": 281,
+      "timeTag": 399
+    },
+    {
+      "chessIndex": 280,
+      "timeTag": 402
+    },
+    {
+      "chessIndex": 274,
+      "timeTag": 216
+    },
+    {
+      "chessIndex": 275,
+      "timeTag": 201
+    },
+    {
+      "chessIndex": 264,
+      "timeTag": 207
+    },
+    {
+      "chessIndex": 265,
+      "timeTag": 543
+    },
+    {
+      "chessIndex": 204,
+      "timeTag": 234
+    },
+    {
+      "chessIndex": 211,
+      "timeTag": 367
+    },
+    {
+      "chessIndex": 208,
+      "timeTag": 186
+    },
+    {
+      "chessIndex": 259,
+      "timeTag": 191
+    },
+    {
+      "chessIndex": 258,
+      "timeTag": 553
+    },
+    {
+      "chessIndex": 245,
+      "timeTag": 181
+    },
+    {
+      "chessIndex": 203,
+      "timeTag": 363
+    },
+    {
+      "chessIndex": 244,
+      "timeTag": 359
+    },
+    {
+      "chessIndex": 243,
+      "timeTag": 153
+    },
+    {
+      "chessIndex": 228,
+      "timeTag": 158
+    },
+    {
+      "chessIndex": 291,
+      "timeTag": 971
+    },
+    {
+      "chessIndex": 287,
+      "timeTag": 175
+    },
+    {
+      "chessIndex": 283,
+      "timeTag": 379
+    },
+    {
+      "chessIndex": 286,
+      "timeTag": 374
+    },
+    {
+      "chessIndex": 282,
+      "timeTag": 195
+    },
+    {
+      "chessIndex": 278,
+      "timeTag": 401
+    },
+    {
+      "chessIndex": 272,
+      "timeTag": 183
+    },
+    {
+      "chessIndex": 279,
+      "timeTag": 249
+    },
+    {
+      "chessIndex": 273,
+      "timeTag": 199
+    },
+    {
+      "chessIndex": 263,
+      "timeTag": 733
+    },
+    {
+      "chessIndex": 262,
+      "timeTag": 368
+    },
+    {
+      "chessIndex": 200,
+      "timeTag": 367
+    },
+    {
+      "chessIndex": 213,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 214,
+      "timeTag": 175
+    },
+    {
+      "chessIndex": 201,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 181,
+      "timeTag": 179
+    },
+    {
+      "chessIndex": 224,
+      "timeTag": 252
+    },
+    {
+      "chessIndex": 255,
+      "timeTag": 190
+    },
+    {
+      "chessIndex": 254,
+      "timeTag": 185
+    },
+    {
+      "chessIndex": 239,
+      "timeTag": 199
+    },
+    {
+      "chessIndex": 207,
+      "timeTag": 404
+    },
+    {
+      "chessIndex": 199,
+      "timeTag": 388
+    },
+    {
+      "chessIndex": 240,
+      "timeTag": 232
+    },
+    {
+      "chessIndex": 241,
+      "timeTag": 222
+    },
+    {
+      "chessIndex": 227,
+      "timeTag": 163
+    },
+    {
+      "chessIndex": 226,
+      "timeTag": 193
+    },
+    {
+      "chessIndex": 225,
+      "timeTag": 229
+    },
+    {
+      "chessIndex": 215,
+      "timeTag": 191
+    },
+    {
+      "chessIndex": 220,
+      "timeTag": 560
+    },
+    {
+      "chessIndex": 230,
+      "timeTag": 361
+    },
+    {
+      "chessIndex": 229,
+      "timeTag": 462
+    },
+    {
+      "chessIndex": 219,
+      "timeTag": 839
+    },
+    {
+      "chessIndex": 187,
+      "timeTag": 215
+    },
+    {
+      "chessIndex": 186,
+      "timeTag": 251
+    },
+    {
+      "chessIndex": 159,
+      "timeTag": 225
+    },
+    {
+      "chessIndex": 142,
+      "timeTag": 273
+    },
+    {
+      "chessIndex": 158,
+      "timeTag": 393
+    },
+    {
+      "chessIndex": 141,
+      "timeTag": 193
+    },
+    {
+      "chessIndex": 180,
+      "timeTag": 237
+    },
+    {
+      "chessIndex": 165,
+      "timeTag": 228
+    },
+    {
+      "chessIndex": 166,
+      "timeTag": 217
+    },
+    {
+      "chessIndex": 151,
+      "timeTag": 423
+    },
+    {
+      "chessIndex": 132,
+      "timeTag": 173
+    },
+    {
+      "chessIndex": 126,
+      "timeTag": 210
+    },
+    {
+      "chessIndex": 188,
+      "timeTag": 412
+    },
+    {
+      "chessIndex": 221,
+      "timeTag": 628
+    },
+    {
+      "chessIndex": 216,
+      "timeTag": 394
+    },
+    {
+      "chessIndex": 190,
+      "timeTag": 210
+    },
+    {
+      "chessIndex": 189,
+      "timeTag": 246
+    },
+    {
+      "chessIndex": 161,
+      "timeTag": 226
+    },
+    {
+      "chessIndex": 160,
+      "timeTag": 220
+    },
+    {
+      "chessIndex": 144,
+      "timeTag": 217
+    },
+    {
+      "chessIndex": 162,
+      "timeTag": 386
+    },
+    {
+      "chessIndex": 191,
+      "timeTag": 421
+    },
+    {
+      "chessIndex": 163,
+      "timeTag": 226
+    },
+    {
+      "chessIndex": 146,
+      "timeTag": 411
+    },
+    {
+      "chessIndex": 164,
+      "timeTag": 220
+    },
+    {
+      "chessIndex": 183,
+      "timeTag": 348
+    },
+    {
+      "chessIndex": 168,
+      "timeTag": 144
+    },
+    {
+      "chessIndex": 184,
+      "timeTag": 245
+    },
+    {
+      "chessIndex": 169,
+      "timeTag": 165
+    },
+    {
+      "chessIndex": 206,
+      "timeTag": 225
+    },
+    {
+      "chessIndex": 67,
+      "timeTag": 642
+    },
+    {
+      "chessIndex": 57,
+      "timeTag": 289
+    },
+    {
+      "chessIndex": 49,
+      "timeTag": 557
+    },
+    {
+      "chessIndex": 66,
+      "timeTag": 693
+    },
+    {
+      "chessIndex": 56,
+      "timeTag": 164
+    },
+    {
+      "chessIndex": 48,
+      "timeTag": 162
+    },
+    {
+      "chessIndex": 269,
+      "timeTag": 215
+    },
+    {
+      "chessIndex": 261,
+      "timeTag": 476
+    },
+    {
+      "chessIndex": 253,
+      "timeTag": 191
+    },
+    {
+      "chessIndex": 260,
+      "timeTag": 436
+    },
+    {
+      "chessIndex": 252,
+      "timeTag": 175
+    },
+    {
+      "chessIndex": 237,
+      "timeTag": 735
+    },
+    {
+      "chessIndex": 178,
+      "timeTag": 212
+    },
+    {
+      "chessIndex": 194,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 222,
+      "timeTag": 454
+    },
+    {
+      "chessIndex": 238,
+      "timeTag": 514
+    },
+    {
+      "chessIndex": 179,
+      "timeTag": 246
+    },
+    {
+      "chessIndex": 195,
+      "timeTag": 280
+    },
+    {
+      "chessIndex": 223,
+      "timeTag": 440
+    },
+    {
+      "chessIndex": 173,
+      "timeTag": 487
+    },
+    {
+      "chessIndex": 148,
+      "timeTag": 1448
+    },
+    {
+      "chessIndex": 147,
+      "timeTag": 193
+    },
+    {
+      "chessIndex": 131,
+      "timeTag": 165
+    },
+    {
+      "chessIndex": 135,
+      "timeTag": 531
+    },
+    {
+      "chessIndex": 118,
+      "timeTag": 160
+    },
+    {
+      "chessIndex": 149,
+      "timeTag": 240
+    },
+    {
+      "chessIndex": 136,
+      "timeTag": 151
+    },
+    {
+      "chessIndex": 119,
+      "timeTag": 769
+    },
+    {
+      "chessIndex": 210,
+      "timeTag": 336
+    },
+    {
+      "chessIndex": 185,
+      "timeTag": 207
+    },
+    {
+      "chessIndex": 218,
+      "timeTag": 411
+    },
+    {
+      "chessIndex": 196,
+      "timeTag": 215
+    },
+    {
+      "chessIndex": 170,
+      "timeTag": 220
+    },
+    {
+      "chessIndex": 150,
+      "timeTag": 178
+    },
+    {
+      "chessIndex": 137,
+      "timeTag": 367
+    },
+    {
+      "chessIndex": 121,
+      "timeTag": 186
+    },
+    {
+      "chessIndex": 197,
+      "timeTag": 357
+    },
+    {
+      "chessIndex": 175,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 174,
+      "timeTag": 535
+    },
+    {
+      "chessIndex": 217,
+      "timeTag": 584
+    },
+    {
+      "chessIndex": 193,
+      "timeTag": 187
+    },
+    {
+      "chessIndex": 209,
+      "timeTag": 330
+    },
+    {
+      "chessIndex": 172,
+      "timeTag": 595
+    },
+    {
+      "chessIndex": 192,
+      "timeTag": 388
+    },
+    {
+      "chessIndex": 171,
+      "timeTag": 181
+    },
+    {
+      "chessIndex": 154,
+      "timeTag": 175
+    },
+    {
+      "chessIndex": 38,
+      "timeTag": 410
+    },
+    {
+      "chessIndex": 32,
+      "timeTag": 194
+    },
+    {
+      "chessIndex": 26,
+      "timeTag": 179
+    },
+    {
+      "chessIndex": 155,
+      "timeTag": 442
+    },
+    {
+      "chessIndex": 156,
+      "timeTag": 169
+    },
+    {
+      "chessIndex": 157,
+      "timeTag": 163
+    },
+    {
+      "chessIndex": 139,
+      "timeTag": 359
+    },
+    {
+      "chessIndex": 138,
+      "timeTag": 326
+    },
+    {
+      "chessIndex": 140,
+      "timeTag": 165
+    },
+    {
+      "chessIndex": 105,
+      "timeTag": 165
+    },
+    {
+      "chessIndex": 122,
+      "timeTag": 376
+    },
+    {
+      "chessIndex": 123,
+      "timeTag": 318
+    },
+    {
+      "chessIndex": 104,
+      "timeTag": 164
+    },
+    {
+      "chessIndex": 106,
+      "timeTag": 299
+    },
+    {
+      "chessIndex": 100,
+      "timeTag": 212
+    },
+    {
+      "chessIndex": 145,
+      "timeTag": 717
+    },
+    {
+      "chessIndex": 130,
+      "timeTag": 146
+    },
+    {
+      "chessIndex": 115,
+      "timeTag": 291
+    },
+    {
+      "chessIndex": 129,
+      "timeTag": 508
+    },
+    {
+      "chessIndex": 143,
+      "timeTag": 490
+    },
+    {
+      "chessIndex": 127,
+      "timeTag": 163
+    },
+    {
+      "chessIndex": 128,
+      "timeTag": 359
+    },
+    {
+      "chessIndex": 112,
+      "timeTag": 176
+    },
+    {
+      "chessIndex": 113,
+      "timeTag": 464
+    },
+    {
+      "chessIndex": 114,
+      "timeTag": 176
+    },
+    {
+      "chessIndex": 97,
+      "timeTag": 176
+    },
+    {
+      "chessIndex": 111,
+      "timeTag": 496
+    },
+    {
+      "chessIndex": 116,
+      "timeTag": 325
+    },
+    {
+      "chessIndex": 152,
+      "timeTag": 810
+    },
+    {
+      "chessIndex": 182,
+      "timeTag": 150
+    },
+    {
+      "chessIndex": 167,
+      "timeTag": 113
+    },
+    {
+      "chessIndex": 153,
+      "timeTag": 219
+    },
+    {
+      "chessIndex": 134,
+      "timeTag": 172
+    },
+    {
+      "chessIndex": 133,
+      "timeTag": 172
+    },
+    {
+      "chessIndex": 117,
+      "timeTag": 139
+    },
+    {
+      "chessIndex": 120,
+      "timeTag": 369
+    },
+    {
+      "chessIndex": 101,
+      "timeTag": 216
+    },
+    {
+      "chessIndex": 103,
+      "timeTag": 452
+    },
+    {
+      "chessIndex": 102,
+      "timeTag": 205
+    },
+    {
+      "chessIndex": 92,
+      "timeTag": 159
+    },
+    {
+      "chessIndex": 95,
+      "timeTag": 314
+    },
+    {
+      "chessIndex": 96,
+      "timeTag": 570
+    },
+    {
+      "chessIndex": 98,
+      "timeTag": 516
+    },
+    {
+      "chessIndex": 88,
+      "timeTag": 422
+    },
+    {
+      "chessIndex": 91,
+      "timeTag": 350
+    },
+    {
+      "chessIndex": 94,
+      "timeTag": 171
+    },
+    {
+      "chessIndex": 93,
+      "timeTag": 188
+    },
+    {
+      "chessIndex": 81,
+      "timeTag": 216
+    },
+    {
+      "chessIndex": 87,
+      "timeTag": 306
+    },
+    {
+      "chessIndex": 99,
+      "timeTag": 621
+    },
+    {
+      "chessIndex": 86,
+      "timeTag": 178
+    },
+    {
+      "chessIndex": 89,
+      "timeTag": 601
+    },
+    {
+      "chessIndex": 76,
+      "timeTag": 306
+    },
+    {
+      "chessIndex": 77,
+      "timeTag": 189
+    },
+    {
+      "chessIndex": 79,
+      "timeTag": 309
+    },
+    {
+      "chessIndex": 78,
+      "timeTag": 273
+    },
+    {
+      "chessIndex": 80,
+      "timeTag": 334
+    },
+    {
+      "chessIndex": 82,
+      "timeTag": 179
+    },
+    {
+      "chessIndex": 83,
+      "timeTag": 224
+    },
+    {
+      "chessIndex": 73,
+      "timeTag": 172
+    },
+    {
+      "chessIndex": 71,
+      "timeTag": 300
+    },
+    {
+      "chessIndex": 72,
+      "timeTag": 444
+    },
+    {
+      "chessIndex": 63,
+      "timeTag": 193
+    },
+    {
+      "chessIndex": 59,
+      "timeTag": 279
+    },
+    {
+      "chessIndex": 68,
+      "timeTag": 557
+    },
+    {
+      "chessIndex": 69,
+      "timeTag": 143
+    },
+    {
+      "chessIndex": 60,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 70,
+      "timeTag": 449
+    },
+    {
+      "chessIndex": 58,
+      "timeTag": 540
+    },
+    {
+      "chessIndex": 61,
+      "timeTag": 307
+    },
+    {
+      "chessIndex": 62,
+      "timeTag": 422
+    },
+    {
+      "chessIndex": 65,
+      "timeTag": 164
+    },
+    {
+      "chessIndex": 64,
+      "timeTag": 500
+    },
+    {
+      "chessIndex": 54,
+      "timeTag": 269
+    },
+    {
+      "chessIndex": 53,
+      "timeTag": 196
+    },
+    {
+      "chessIndex": 50,
+      "timeTag": 541
+    },
+    {
+      "chessIndex": 51,
+      "timeTag": 383
+    },
+    {
+      "chessIndex": 52,
+      "timeTag": 424
+    },
+    {
+      "chessIndex": 43,
+      "timeTag": 305
+    },
+    {
+      "chessIndex": 41,
+      "timeTag": 172
+    },
+    {
+      "chessIndex": 40,
+      "timeTag": 333
+    },
+    {
+      "chessIndex": 42,
+      "timeTag": 184
+    },
+    {
+      "chessIndex": 44,
+      "timeTag": 406
+    },
+    {
+      "chessIndex": 55,
+      "timeTag": 442
+    },
+    {
+      "chessIndex": 21,
+      "timeTag": 1602
+    },
+    {
+      "chessIndex": 39,
+      "timeTag": 639
+    },
+    {
+      "chessIndex": 33,
+      "timeTag": 186
+    },
+    {
+      "chessIndex": 27,
+      "timeTag": 192
+    },
+    {
+      "chessIndex": 47,
+      "timeTag": 1040
+    },
+    {
+      "chessIndex": 45,
+      "timeTag": 175
+    },
+    {
+      "chessIndex": 46,
+      "timeTag": 500
+    },
+    {
+      "chessIndex": 34,
+      "timeTag": 305
+    },
+    {
+      "chessIndex": 36,
+      "timeTag": 427
+    },
+    {
+      "chessIndex": 37,
+      "timeTag": 642
+    },
+    {
+      "chessIndex": 35,
+      "timeTag": 269
+    },
+    {
+      "chessIndex": 28,
+      "timeTag": 263
+    },
+    {
+      "chessIndex": 29,
+      "timeTag": 428
+    },
+    {
+      "chessIndex": 31,
+      "timeTag": 397
+    },
+    {
+      "chessIndex": 30,
+      "timeTag": 207
+    },
+    {
+      "chessIndex": 24,
+      "timeTag": 572
+    },
+    {
+      "chessIndex": 20,
+      "timeTag": 233
+    },
+    {
+      "chessIndex": 25,
+      "timeTag": 367
+    },
+    {
+      "chessIndex": 23,
+      "timeTag": 352
+    },
+    {
+      "chessIndex": 18,
+      "timeTag": 200
+    },
+    {
+      "chessIndex": 14,
+      "timeTag": 170
+    },
+    {
+      "chessIndex": 10,
+      "timeTag": 345
+    },
+    {
+      "chessIndex": 19,
+      "timeTag": 203
+    },
+    {
+      "chessIndex": 16,
+      "timeTag": 483
+    },
+    {
+      "chessIndex": 12,
+      "timeTag": 194
+    },
+    {
+      "chessIndex": 6,
+      "timeTag": 155
+    },
+    {
+      "chessIndex": 15,
+      "timeTag": 383
+    },
+    {
+      "chessIndex": 8,
+      "timeTag": 232
+    },
+    {
+      "chessIndex": 11,
+      "timeTag": 341
+    },
+    {
+      "chessIndex": 4,
+      "timeTag": 207
+    },
+    {
+      "chessIndex": 9,
+      "timeTag": 270
+    },
+    {
+      "chessIndex": 5,
+      "timeTag": 334
+    },
+    {
+      "chessIndex": 1,
+      "timeTag": 203
+    },
+    {
+      "chessIndex": 0,
+      "timeTag": 243
+    },
+    {
+      "chessIndex": 22,
+      "timeTag": 805
+    },
+    {
+      "chessIndex": 17,
+      "timeTag": 148
+    },
+    {
+      "chessIndex": 13,
+      "timeTag": 157
+    },
+    {
+      "chessIndex": 7,
+      "timeTag": 158
+    },
+    {
+      "chessIndex": 3,
+      "timeTag": 157
+    },
+    {
+      "chessIndex": 2,
+      "timeTag": 613
+    }
+  ]
+}
