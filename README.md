@@ -18,7 +18,7 @@ npm i
 ```js
 const sheep = new Sheep("这里是你的t值")
 ```
-> 第一次运行需要给`getMap`第二个参数传个true
+> 注意：每天第一次运行需要给`getMap`第二个参数传个true
 
 ```js
 const mapData = await sheep.getMap(map.data.map_md5,true)
@@ -39,4 +39,6 @@ node index.js
 感谢[@djerryz](https://github.com/djerryz)/[Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni)提供的思路
 
 ## 说明
+做来学习的，以后失效也可能不会更新
 仅供学习使用，如有侵权请联系我删除
+
