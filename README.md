@@ -18,6 +18,11 @@ npm i
 ```js
 const sheep = new Sheep("这里是你的t值")
 ```
+> 第一次运行需要给`getMap`第二个参数传个true
+
+```js
+const mapData = await sheep.getMap(map.data.map_md5,true)
+```
 4. 在项目目录下运行后查看输出就可以了
 ```bash
 node index.js
